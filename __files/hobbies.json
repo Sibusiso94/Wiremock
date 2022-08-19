@@ -1,0 +1,16 @@
+{
+"data":
+    [
+        {
+            "title": "Hobbies",
+            "sport":
+                    {"toWatch": "Football, Basketball, Tennis",
+                     "toPlay": "Football and Basketball. Would love to play tennis again but no facilities near me",
+                     "favTeam": "I've been an Arsenal fan for 17 years"
+                    },
+            "travel": "My wife and I love to travel. We aim to travel most of Africa first them travel abroad",
+            "chillingWithFamily": "I enjoy just spending time with family and wathcing series' or movies together"
+        }
+    ]
+}
+

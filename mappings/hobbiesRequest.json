@@ -1,0 +1,14 @@
+{
+   "priority": 1,
+   "request": {
+     "urlPattern": "/api/hobbies",
+     "method": "GET"
+   },
+   "response": {
+     "status": 200,
+     "bodyFileName": "hobbies.json",
+     "headers": {
+       "Content-Type": "application/json; charset=utf-8"
+     }
+  }
+}
